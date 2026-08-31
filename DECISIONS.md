@@ -40,7 +40,7 @@ What did it do? How did you notice? What did you do instead?
 
 If it genuinely never happened, say so plainly, and then say what you would have had to
 check in order to notice. Being honest here costs you far less than a story you cannot
-defend when you record your demo.
+defend when you record your video.
 
 *Your answer here.*
 

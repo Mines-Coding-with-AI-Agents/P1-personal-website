@@ -9,12 +9,13 @@
 | **Due** | Tuesday, September 22 |
 | **Work** | Individual |
 
-You hand in four things:
+You hand in five things:
 
 1. A **live website** on a public GitHub Pages URL
 2. **`DECISIONS.md`** - your decision log
 3. **`verification/`** - proof the site actually works
-4. A **2-3 minute recorded demo**, linked from your README
+4. A **3-5 minute video**, submitted on Canvas
+5. **Comments on two classmates' sites**, in the Canvas discussion
 
 ---
 
@@ -35,6 +36,9 @@ Not the website.
 You will be graded on your **judgment and your process**, not on how the page looks.
 Nobody is scoring your CSS.
 A plain, honest, working site with a sharp decision log is worth more here than a beautiful one you cannot explain.
+
+There is no rubric and no list of required features.
+What I want out of this project is simple: a personal website you are proud to show the world.
 
 The habit this project is building is the one from Lecture 3: **never trust an agent result you have not given it a way to check.**
 Your agent will tell you it deployed successfully. That claim is worth nothing until you look at the live URL yourself.
@@ -125,15 +129,28 @@ That last line is the one that matters.
 
 You already did this exact check in the Lecture 3 lab. This is the same motion.
 
-## The demo
+## The video
 
-Record 2-3 minutes. Any tool, any quality, phone camera is fine.
-Put an unlisted link in your README.
+Record 3-5 minutes and submit it on Canvas. Any tool, any quality, phone camera is fine.
 
-Two things to cover:
+Three things to cover:
 
-1. Open your live site and walk through it.
-2. Tell me about one thing the agent got wrong, and how you caught it.
+1. Introduce your site: open the live URL and give a short tour of what you built.
+2. Explain your design choices: what you picked, what you rejected, and why it looks the way it does.
+3. Describe a challenge or an issue you hit, and how you got past it.
+
+Here is why the video exists.
+Everything else in this project was built by driving an AI, and that is the point of the course.
+The video is the one deliverable an agent cannot make for you: your voice, your reasons, your story.
+That human side matters more, not less, when the code came from a model.
+
+## Reviewing each other's sites
+
+A personal site is made to be seen, and this class is your first real audience.
+
+There is a discussion for P1 on Canvas.
+Visit two classmates' sites and leave each of them a comment: one specific thing that works, and one thing you would try differently.
+"Nice site" helps nobody, so point at something real.
 
 ## Ground rules
 
