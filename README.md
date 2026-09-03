@@ -15,7 +15,9 @@ You hand in five things:
 2. **`DECISIONS.md`** - your decision log
 3. **`verification/`** - proof the site actually works
 4. A **3-5 minute video**, submitted on Canvas
-5. **Comments on two classmates' sites**, in the Canvas discussion
+5. **Comments on three classmates' sites**, in the Canvas discussion
+
+The Canvas discussion for P1 is where all of this gets handed in, and it is worth 200 points: 100 for completing the project, 50 for the video, and 50 for the three comments.
 
 ---
 
@@ -154,9 +156,10 @@ I care about the story, not the production quality.
 A personal site is made to be seen, and this class is your first real audience.
 
 There is a discussion for P1 on Canvas.
-Visit two classmates' sites and leave each of them a comment: one specific thing that works, and one thing you would try differently.
+Visit three classmates' sites and leave each of them a comment: one specific thing that works, and one thing you would try differently.
+Start with the sites that have no comments yet, so everyone gets seen, including the people who post last.
 Specific matters here, because "nice site" is pleasant to receive and impossible to act on.
-You will also learn a lot from looking closely at two sites that solved the same problem differently from yours.
+You will also learn a lot from looking closely at three sites that solved the same problem differently from yours.
 
 ## Ground rules
 
